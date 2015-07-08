@@ -1,3 +1,19 @@
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
+**Table of Contents**
+
+- [Win utils to increase desktop efficiency](#win-utils-to-increase-desktop-efficiency)
+    - [Executor](#executor)
+    - [KeePass 2.x](#keepass-2x)
+    - [Emacs](#emacs)
+    - [Ditto](#ditto)
+    - [Auto Hotkey](#auto-hotkey)
+    - [Putty Utils](#putty-utils)
+    - [MRemoteNG](#mremoteng)
+    - [Greenshot](#greenshot)
+    - [ConzoleZ (+ pycmd/unixutils)](#conzolez--pycmdunixutils)
+    - [7-zip](#7-zip)
+
+<!-- markdown-toc end -->
 # Win utils to increase desktop efficiency #
 
 -------------------------------------------------------------------------------
