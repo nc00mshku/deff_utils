@@ -10,7 +10,7 @@
     - [Putty Utils](#putty-utils)
     - [MRemoteNG](#mremoteng)
     - [Greenshot](#greenshot)
-    - [ConzoleZ (+ pycmd/unixutils)](#conzolez--pycmdunixutils)
+    - [ConEmu (+ pycmd/unixutils)](#conemu--pycmdunixutils)
     - [7-zip](#7-zip)
 
 <!-- markdown-toc end -->
@@ -58,10 +58,10 @@
 
 [Download Link](https://github.com/greenshot/greenshot/releases/latest)
 
-## ConzoleZ (+ pycmd/unixutils) ##
+## ConEmu (+ pycmd/unixutils) ##
 >cmd replacement
 
-[ConsoleZ](https://github.com/cbucher/console/wiki/Downloads)
+[ConEmu](https://conemu.github.io/)
 
 [pycmd](http://sourceforge.net/projects/pycmd/)
 
